@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arminkz" alt="varaste" /> </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=varaste&show_icons=true" alt="varaste" />
