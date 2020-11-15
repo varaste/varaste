@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 -258
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varaste&rank=S,AAA,AA,A,BBB,BB,B,CCC,CC,C&row=4&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=varaste&rank=S,SS,SSS,AAA,AA,A,BBB,BB,B,CCC,CC,C&row=4&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
