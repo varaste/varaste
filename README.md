@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=varaste&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/varaste)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaste&layout=compact&langs_count=11&count_private=true&theme=dracula&hide=Makefile,cmake)](https://github.com/varaste)
 
 -258
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varaste&rank=SECRET,S,SS,SSS,AAA,AA,A,BBB,BB,B,CCC,CC,C&row=4&column=3&theme=flat&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=varaste&rank=SECRET,S,SS,SSS,AAA,AA,A,BBB,BB,B,CCC,CC,C&theme=flat&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
